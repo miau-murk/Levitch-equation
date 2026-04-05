@@ -1,0 +1,14 @@
+Fit for Plot of Results: Data Set 1: Y
+Formula: y = a+bx+cx^2
+Macro code: y = a+x*(b+x*c)
+Status: Success
+Number of completed minimizations: 2
+Number of iterations: 43 (max: 1500)
+Time: 1 ms
+Sum of residuals squared: 19.62318
+Standard deviation: 1.47660
+R^2: 0.99271
+Parameters:
+	a = 260.67650
+	b = 0.35265
+	c = -0.00018877
